@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonitorActiveApp</string>
+    <string name="info_button_text">INFO</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="api">API</string>
+    <string name="application">Application</string>
+    <string name="show_button">Show</string>
+</resources>
